@@ -9,17 +9,12 @@ body{
     background-color: #BB99DD;
 }
 
-
 #corpo{
     background-color: #FAF7FD;
     margin: 30px;
     align-items: center;
     text-align: center;
     border-radius: 30px;
-}
-
-img{
- 
 }
 
 .instagram{
@@ -53,15 +48,14 @@ img{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+}
+
+#linkstyle{
+    text-decoration: none;
+    font-weight: bold;
     color: #BB99DD;
-    
 }
-/*
-#alllinks{
-    align-items: center;
-    text-align: center;
-}
-*/
+
 #icons{
     width: 300px;
     height: 60px;
