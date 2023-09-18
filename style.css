@@ -1,0 +1,73 @@
+*{
+    align-items: center;
+    box-sizing: border-box;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: #BB99DD;
+}
+
+
+#corpo{
+    background-color: #FAF7FD;
+    margin: 30px;
+    align-items: center;
+    text-align: center;
+    border-radius: 30px;
+}
+
+img{
+ 
+}
+
+.instagram{
+    margin-bottom: 25px;
+    color: #BB99DD;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 15px;
+
+}
+
+.fotoperfil{
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border: 4px solid #BB99DD;
+    color: #BB99DD;
+}
+
+#links{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #BB99DD;
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #BB99DD;
+    
+}
+/*
+#alllinks{
+    align-items: center;
+    text-align: center;
+}
+*/
+#icons{
+    width: 300px;
+    height: 60px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
